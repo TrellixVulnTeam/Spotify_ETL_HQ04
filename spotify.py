@@ -11,7 +11,7 @@ import sqlite3
 
 DATABASE_LOCATION = 'sqlite:///my_played_tracks.sqlite'
 USER_ID = 'jakub.uhrina'
-TOKEN = 'BQDf6FpuqDcs7XEJJU4kt2wvv_BDLbbQarOVR8dli-shU-a5rkWlwzw0tXHNVIAsWjV39-B9AFdx233yWlwiDmEtfnhCSfg3WrTeBsifQk_Jbieo5Z2vOoy84ooED6qjPtV9tvlLcz9oxd-lyio'
+TOKEN = 'BQAPH9YhOrq58HFrI3ehkQW76N9B0VoY35W3VAWp7Hhzpfp9DK7PFGGYGbEh08qr_O0beoilWwthSymy3W7A7QHT3ln4J1Klf0-iyGvp8LfExH51xPhbPxtlyq9qlYLTXMZq8b_eYVBhip1CHa0'
 
 # Token -> https://developer.spotify.com/console/get-recently-played/?limit=10&after=1484811043508&before=
 
